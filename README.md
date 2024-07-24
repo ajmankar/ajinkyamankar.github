@@ -1,4 +1,4 @@
-PL/SQL developer/Data Analyst
+PL/SQL developer
 Technical Skills: PL/SQL, Power-BI, SQL, MYSQL, PostgreSQL, ORACLE, GIT, GITHUB
 
 Education
